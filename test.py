@@ -53,5 +53,5 @@ async def kick(ctx, user: discord.Member):
 async def hi(ctx, user: discord.Member):
     await bot.say("hello".format(user.name))
 
-bot.run(os.getenv('TOKEN'))
+bot.run("NDc4MTQ2ODcxOTYyMTA3OTA3.DlgX-g.ohK51OPK3sT-gZtvbwIZdxMXnQQ")
 
